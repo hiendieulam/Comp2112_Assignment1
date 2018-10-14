@@ -1,5 +1,4 @@
 # Comp2112_Assignment1
-Assignment 1 – Webmail
 This application uses as an email.
 
 My Link:
